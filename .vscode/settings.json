@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/cdd5237b-82e2-41ea-9618-80496c4838c7/resourceGroups/DefaultResourceGroup-EUS/providers/Microsoft.Web/sites/Alletec-ESign-App",
+    "appService.deploySubpath": "build"
+}

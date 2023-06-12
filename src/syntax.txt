@@ -1,0 +1,16 @@
+{users.map((user, index) => (
+          <li key={index}>
+            <p>Name: {user.name.first} {user.name.last}</p>
+            <p>Email: {user.email}</p>
+            <hr />
+          </li>
+        ))}
+
+
+
+
+
+
+
+        6ac6652b-82dc-4a0d-83aa-fd962340708e
+        App ID Azure

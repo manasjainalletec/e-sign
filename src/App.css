@@ -129,3 +129,18 @@
   padding: 10px;
   object-fit: contain;
 }
+.bar {
+  width: 500px;
+  height: 1150px;
+}
+body {
+  margin: 20px;
+}
+#domEl {
+  position: relative;
+  height: 230px;
+  width: 500px;
+  padding: 20px;
+  background: #fff4f4;
+  border: 1px solid #ddd;
+}
